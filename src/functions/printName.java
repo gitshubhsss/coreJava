@@ -11,5 +11,6 @@ public class printName {
         Scanner shubham=new Scanner(System.in);
         String name=shubham.next();
         printMyName(name);
+
     }
 }
